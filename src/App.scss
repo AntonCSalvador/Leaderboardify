@@ -1,0 +1,129 @@
+$greyDark: #040404;
+$greyLight: #131313;
+$greyLighter: #282828;
+$greyText: #b3b3b3;
+$greyNav: #090909;
+
+.App {
+  height: calc(100vh - 90px);
+  background: $greyLight;
+  display: flex;
+}
+
+.navBar{
+  width: 228px;
+  height: calc(100% - 10px);
+  background: $greyDark;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+    .logoImg {
+      width: 100%;
+      height: auto;
+      max-width: 100%; // Optional, to limit the image size if necessary
+    }
+  ul{
+    margin: 0;
+    padding: 0;
+    li{
+      color: $greyText;
+      list-style-type: none;
+      border-radius: 5px;
+      padding: 1rem;  
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+      &.active{
+        background: $greyLighter;
+      }
+      &:hover{
+        color:white;
+        
+      }
+    }
+  }
+  .note{
+    font-size: 0.6rem;
+    color: $greyText;
+    text-align: center;
+    margin-top: auto; 
+    padding: 1rem;
+    span{
+      display: block;
+    }
+  }
+
+}
+
+
+.outerWrap{
+  background: grey;
+  height: 100vh;
+  min-height: 100%;
+}
+
+.musicControls{
+  background: $greyLighter;
+  text-align: center;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  z-index: 2;
+  position: relative;
+}
+
+.upperNav{
+  background: $greyNav;
+  height: 56px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: white;
+  padding: 0.5rem 2rem;
+}
+
+.main {
+  width: 100%;
+  overflow-y: auto; /* Enable vertical scrolling */
+  height: calc(100vh - 146px); /* Adjust the height to make room for other elements */
+  
+  .mainContent {
+    color: white;
+    padding: 0.5rem 2rem;
+    position: relative;
+
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 3%;
+    }
+
+    .rectangle {
+      background-color: #282828;
+      margin-bottom: 10px; /* Add some space between rectangles */
+      padding: 10px; /* Add padding to the rectangle */
+    }
+  }
+}
+
+/* Add scrollbar styling for WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #777;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+/* Add scrollbar styling for Firefox */
+/* Note: Firefox currently only supports scrollbar-color and scrollbar-width properties */
+* {
+  scrollbar-color: #777 #f0f0f0;
+  scrollbar-width: thin;
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Taylor Swift",
+        "monthly_listeners": 98900000
+    },
+    {
+        "name": "Ed Sheeran",
+        "monthly_listeners": 77800000
+    },
+    {
+        "name": "Dua Lipa",
+        "monthly_listeners": 77700000
+    },
+    {
+        "name": "Drake",
+        "monthly_listeners": 75500000
+    },
+    {
+        "name": "Rihanna",
+        "monthly_listeners": 74400000
+    },
+    {
+        "name": "Justin Bieber",
+        "monthly_listeners": 72100000
+    },
+    {
+        "name": "Billie Eilish",
+        "monthly_listeners": 71900000
+    },
+    {
+        "name": "Ariana Grande",
+        "monthly_listeners": 66400000
+    },
+    {
+        "name": "Nicki Minaj",
+        "monthly_listeners": 65700000
+    },
+    {
+        "name": "Bruno Mars",
+        "monthly_listeners": 61900000
+    },
+    {
+        "name": "SZA",
+        "monthly_listeners": 61600000
+    },
+    {
+        "name": "Kanye West",
+        "monthly_listeners": 56800000
+    },
+    {
+        "name": "Olivia Rodrigo",
+        "monthly_listeners": 56500000
+    },
+    {
+        "name": "Lana Del Rey",
+        "monthly_listeners": 54900000
+    },
+    {
+        "name": "Metro Boomin",
+        "monthly_listeners": 54600000
+    },
+    {
+        "name": "Beyonc\u00e9",
+        "monthly_listeners": 54100000
+    },
+    {
+        "name": "KAROL G",
+        "monthly_listeners": 53900000
+    },
+    {
+        "name": "Rauw Alejandro",
+        "monthly_listeners": 48100000
+    },
+    {
+        "name": "Peso Pluma",
+        "monthly_listeners": 48100000
+    },
+    {
+        "name": "Kendrick Lamar",
+        "monthly_listeners": 47700000
+    },
+    {
+        "name": "Ice Spice",
+        "monthly_listeners": 47100000
+    },
+    {
+        "name": "Bebe Rexha",
+        "monthly_listeners": 45000000
+    },
+    {
+        "name": "Aqua",
+        "monthly_listeners": 41600000
+    },
+    {
+        "name": "Madonna",
+        "monthly_listeners": 41300000
+    },
+    {
+        "name": "Charlie Puth",
+        "monthly_listeners": 40500000
+    },
+    {
+        "name": "The Chainsmokers",
+        "monthly_listeners": 38600000
+    },
+    {
+        "name": "Quevedo",
+        "monthly_listeners": 38100000
+    },
+    {
+        "name": "Playboi Carti",
+        "monthly_listeners": 37700000
+    },
+    {
+        "name": "ROSAL\u00cdA",
+        "monthly_listeners": 37700000
+    },
+    {
+        "name": "Maluma",
+        "monthly_listeners": 37600000
+    },
+    {
+        "name": "Gunna",
+        "monthly_listeners": 35700000
+    },
+    {
+        "name": "Grupo Frontera",
+        "monthly_listeners": 35600000
+    },
+    {
+        "name": "JAY-Z",
+        "monthly_listeners": 35400000
+    },
+    {
+        "name": "XXXTENTACION",
+        "monthly_listeners": 35300000
+    },
+    {
+        "name": "Central Cee",
+        "monthly_listeners": 35100000
+    },
+    {
+        "name": "BTS",
+        "monthly_listeners": 34800000
+    },
+    {
+        "name": "Kali Uchis",
+        "monthly_listeners": 34100000
+    },
+    {
+        "name": "Lewis Capaldi",
+        "monthly_listeners": 32600000
+    },
+    {
+        "name": "Lil Baby",
+        "monthly_listeners": 30500000
+    },
+    {
+        "name": "Jhayco",
+        "monthly_listeners": 30500000
+    },
+    {
+        "name": "DaBaby",
+        "monthly_listeners": 30200000
+    },
+    {
+        "name": "Tyler, The Creator",
+        "monthly_listeners": 29700000
+    },
+    {
+        "name": "Eslabon Armado",
+        "monthly_listeners": 29000000
+    },
+    {
+        "name": "Labrinth",
+        "monthly_listeners": 28700000
+    },
+    {
+        "name": "Usher",
+        "monthly_listeners": 28400000
+    },
+    {
+        "name": "Flo Rida",
+        "monthly_listeners": 27800000
+    },
+    {
+        "name": "Green Day",
+        "monthly_listeners": 27700000
+    },
+    {
+        "name": "Demi Lovato",
+        "monthly_listeners": 27600000
+    },
+    {
+        "name": "Jack Harlow",
+        "monthly_listeners": 27300000
+    },
+    {
+        "name": "Young Miko",
+        "monthly_listeners": 27100000
+    },
+    {
+        "name": "Fall Out Boy",
+        "monthly_listeners": 26700000
+    },
+    {
+        "name": "NewJeans",
+        "monthly_listeners": 26600000
+    },
+    {
+        "name": "JVKE",
+        "monthly_listeners": 26400000
+    },
+    {
+        "name": "Daniel Caesar",
+        "monthly_listeners": 26200000
+    },
+    {
+        "name": "d4vd",
+        "monthly_listeners": 26100000
+    },
+    {
+        "name": "Steve Lacy",
+        "monthly_listeners": 25700000
+    },
+    {
+        "name": "Lizzo",
+        "monthly_listeners": 25200000
+    },
+    {
+        "name": "Polo G",
+        "monthly_listeners": 24400000
+    },
+    {
+        "name": "Mariah Carey",
+        "monthly_listeners": 24400000
+    },
+    {
+        "name": "Mac Miller",
+        "monthly_listeners": 24200000
+    },
+    {
+        "name": "Sabrina Carpenter",
+        "monthly_listeners": 24200000
+    },
+    {
+        "name": "Don Toliver",
+        "monthly_listeners": 24200000
+    },
+    {
+        "name": "Glass Animals",
+        "monthly_listeners": 24000000
+    },
+    {
+        "name": "Gorillaz",
+        "monthly_listeners": 23200000
+    },
+    {
+        "name": "Eladio Carrion",
+        "monthly_listeners": 23200000
+    },
+    {
+        "name": "Disney",
+        "monthly_listeners": 22900000
+    },
+    {
+        "name": "Conan Gray",
+        "monthly_listeners": 22500000
+    },
+    {
+        "name": "Megan Thee Stallion",
+        "monthly_listeners": 22000000
+    },
+    {
+        "name": "JID",
+        "monthly_listeners": 20900000
+    },
+    {
+        "name": "Outkast",
+        "monthly_listeners": 20600000
+    },
+    {
+        "name": "Lorde",
+        "monthly_listeners": 20400000
+    },
+    {
+        "name": "Natanael Cano",
+        "monthly_listeners": 20400000
+    },
+    {
+        "name": "Eagles",
+        "monthly_listeners": 20300000
+    },
+    {
+        "name": "Daft Punk",
+        "monthly_listeners": 20300000
+    },
+    {
+        "name": "Brent Faiyaz",
+        "monthly_listeners": 20200000
+    },
+    {
+        "name": "5 Seconds of Summer",
+        "monthly_listeners": 19400000
+    },
+    {
+        "name": "Chris Stapleton",
+        "monthly_listeners": 19400000
+    },
+    {
+        "name": "The Lumineers",
+        "monthly_listeners": 19000000
+    },
+    {
+        "name": "Kesha",
+        "monthly_listeners": 18900000
+    },
+    {
+        "name": "Nelly",
+        "monthly_listeners": 18900000
+    },
+    {
+        "name": "Pink Floyd",
+        "monthly_listeners": 18800000
+    },
+    {
+        "name": "The Offspring",
+        "monthly_listeners": 18500000
+    },
+    {
+        "name": "Journey",
+        "monthly_listeners": 18500000
+    },
+    {
+        "name": "blackbear",
+        "monthly_listeners": 17700000
+    },
+    {
+        "name": "YoungBoy Never Broke Again",
+        "monthly_listeners": 16900000
+    },
+    {
+        "name": "Ne-Yo",
+        "monthly_listeners": 16900000
+    },
+    {
+        "name": "NF",
+        "monthly_listeners": 16399999
+    },
+    {
+        "name": "Lynyrd Skynyrd",
+        "monthly_listeners": 16200000
+    },
+    {
+        "name": "Noah Kahan",
+        "monthly_listeners": 16100000
+    },
+    {
+        "name": "John Mayer",
+        "monthly_listeners": 15900000
+    },
+    {
+        "name": "beabadoobee",
+        "monthly_listeners": 15700000
+    },
+    {
+        "name": "Nickelback",
+        "monthly_listeners": 15500000
+    },
+    {
+        "name": "NAV",
+        "monthly_listeners": 15300000
+    },
+    {
+        "name": "My Chemical Romance",
+        "monthly_listeners": 15200000
+    },
+    {
+        "name": "Zach Bryan",
+        "monthly_listeners": 15100000
+    },
+    {
+        "name": "Bon Iver",
+        "monthly_listeners": 14800000
+    },
+    {
+        "name": "Lil Tecca",
+        "monthly_listeners": 14700000
+    },
+    {
+        "name": "Weezer",
+        "monthly_listeners": 14600000
+    },
+    {
+        "name": "Lil Peep",
+        "monthly_listeners": 14400000
+    },
+    {
+        "name": "Dan + Shay",
+        "monthly_listeners": 14300000
+    }
+]
