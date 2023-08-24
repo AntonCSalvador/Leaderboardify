@@ -83,15 +83,47 @@ $greyNav: #090909;
   padding: 0.5rem 2rem;
 }
 
+.timer {
+  font-size: 0.8rem;
+  color: $greyText;
+  text-align: center;
+  margin-top: auto;
+  padding: 1rem;
+  span {
+    display: block;
+  }
+  .timer-value {
+    font-weight: bold;
+  }
+  li{
+    color: $greyText;
+    list-style-type: none;
+    border-radius: 5px;
+    padding: 0.5rem;  
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    &.active{
+      background: $greyLighter;
+    }
+    &:hover{
+      color:white;
+      
+    }
+  }
+}
+
+
 .main {
   width: 100%;
-  overflow-y: auto; /* Enable vertical scrolling */
-  height: calc(100vh - 146px); /* Adjust the height to make room for other elements */
-  
+  overflow: hidden; /* Hide scrollbars outside of main content */
+
+
   .mainContent {
     color: white;
     padding: 0.5rem 2rem;
     position: relative;
+    overflow-y: auto; /* Enable vertical scrolling */
+    height: calc(100vh - 146px); /* Adjust the height to make room for other elements */
 
     h1 {
       font-size: 1.5rem;
@@ -100,7 +132,8 @@ $greyNav: #090909;
 
     .rectangle {
       background-color: #282828;
-      margin-bottom: 10px; /* Add some space between rectangles */
+      border-radius: 3px;
+      margin-bottom: 5px; /* Add some space between rectangles */
       padding: 10px; /* Add padding to the rectangle */
     }
   }
