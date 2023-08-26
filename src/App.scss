@@ -61,7 +61,7 @@ $greyNav: #090909;
   min-height: 100%;
 }
 
-.musicControls{
+.musicControls {
   background: $greyLighter;
   text-align: center;
   height: 90px;
@@ -70,8 +70,17 @@ $greyNav: #090909;
   justify-content: center;
   color: white;
   z-index: 2;
+  // cursor: pointer;
   position: relative;
+
+  .controls {
+    max-width: 100%; // This line ensures the image fits within the parent
+    max-height: 50%;
+
+  }
+
 }
+
 
 .upperNav{
   background: $greyNav;
@@ -81,6 +90,12 @@ $greyNav: #090909;
   align-items: center;
   color: white;
   padding: 0.5rem 2rem;
+
+  .directions {
+    max-width: 100%; // This line ensures the image fits within the parent
+    max-height: 75%;
+    cursor: not-allowed;
+  }
 }
 
 .timer {

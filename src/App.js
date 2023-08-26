@@ -3,7 +3,11 @@ import leaderboardifyLogo from './leaderboardifyv2.png'; // Import the image
 import './App.scss';
 import topArtistsData from './top_artists.json'; // Adjust the path as needed
 import React, { useState, useEffect } from 'react';
-
+import leftSkip from './leftSkip2.png';
+import rightSkip from './RightSkip3.png';
+import pause2 from './pause2.png';
+import rightArrow from './rightArrowSpot.png'
+import leftArrow from './leftArrowSpot.png'
 
 function App() {
   const [remainingTime, setRemainingTime] = useState(24 * 60 * 60); // 24 hours in seconds and keeps the variable consistent with useState
@@ -48,7 +52,9 @@ function App() {
         {/* //start of main */}
         <div className="main">
           <div className="upperNav">
-            dummy text
+            <img src={leftArrow} alt="Skip" className="directions"></img>
+            <img src={rightArrow} alt="Skip" className="directions"></img>
+            <span class = "welcome">Welcome, Poggy</span>
           </div>
           <div className="mainContent">
             <h1>Current Top Artists</h1>
@@ -64,8 +70,11 @@ function App() {
         </div>
 
       </div>
-      <div className = "musicControls">
-        music controls
+      <div className="musicControls">
+        <img src={leftSkip} alt="Skip" className="controls"></img>
+        <img src={pause2} alt="Skip" className="controls"></img>
+        <img src={rightSkip} alt="Skip" className="controls"></img>
+        {/* music controls */}
       </div>
     </div>
   );
