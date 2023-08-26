@@ -54,7 +54,7 @@ function App() {
           <div className="upperNav">
             <img src={leftArrow} alt="Skip" className="directions"></img>
             <img src={rightArrow} alt="Skip" className="directions"></img>
-            <span class = "welcome">Welcome, Poggy</span>
+            <span class = "welcome">Welcome, </span>
           </div>
           <div className="mainContent">
             <h1>Current Top Artists</h1>
