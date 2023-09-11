@@ -34,12 +34,12 @@ function App() {
             <li>Your Library</li>
           </ul>
           <div className="timer">
-            <li>Next Reset In:</li>
+            {/* <li>Next Reset In:</li> */}
             <div className="timer-value">
               <li>
-              {Math.floor(remainingTime / 3600)}h&nbsp;
+              {/* {Math.floor(remainingTime / 3600)}h&nbsp;
               {Math.floor((remainingTime % 3600) / 60)}m&nbsp;
-              {remainingTime % 60}s
+              {remainingTime % 60}s */}
               </li>
             </div>
           </div>
@@ -54,7 +54,7 @@ function App() {
           <div className="upperNav">
             <img src={leftArrow} alt="Skip" className="directions"></img>
             <img src={rightArrow} alt="Skip" className="directions"></img>
-            <span class = "welcome">Welcome, </span>
+            <span class = "welcome">Welcome! </span>
           </div>
           <div className="mainContent">
             <h1>Current Top Artists</h1>
